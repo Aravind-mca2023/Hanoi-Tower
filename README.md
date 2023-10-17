@@ -7,4 +7,3 @@ Enter the number of disk that you want to create and click the make move button.
 # Future Improvements
 This Project can be further enhanced by 3d animation to the puzzle
 
-https://aravind-mca2023.github.io/Hanoi-Tower/
